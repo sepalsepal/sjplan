@@ -1,0 +1,18 @@
+{
+  "name": "Weekly Plan - 남은 인생을 디자인하세요",
+  "short_name": "Weekly Plan",
+  "description": "당신의 남은 인생을 위클리 플랜으로 설계해보십시오",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
